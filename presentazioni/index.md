@@ -4,7 +4,9 @@ Qui una selezione delle presentazioni viste ai Satoshi Spritz.
 
 |Data              |Autore             |Titolo|
 |------------------|-------------------|------|
+|9 Gennaio 2026    |Valerio Vaccaro    |[Il Vero Capodanno di Bitcoin](https://satoshispritz.it/presentazioni/260109-nuovo-anno.pdf)|
 |25 Dicembre 2025  |                   |[Chaos Is Ssecurity](https://satoshispritz.it/presentazioni/251215_entropia.pdf) [Tabella](https://satoshispritz.it/presentazioni/251215_entropia_tabella.pdf)|
+|17 Dicembre 1985  |Valerio Vaccaro    |[Satoshi Spritz 1986](https://satoshispritz.it/presentazioni/851217-ssmilano1986.pdf)|
 |26 Novembre 2025  |Valerio Vaccaro    |[BDK e Descriptors](https://satoshispritz.it/presentazioni/251126-bdk-descriptors.pdf)|
 |19 Novembre 2025  |                   |[La struttura delle transazione](https://satoshispritz.it/presentazioni/251119-transazione.pdf)|
 |18 Novembre 2025  |Valerio Vaccaro    |[Bitcoin Transaction Lifecycle](https://satoshispritz.it/presentazioni/251118-bitcoin-transaction-lifecycle.pdf)|

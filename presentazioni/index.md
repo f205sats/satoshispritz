@@ -4,6 +4,7 @@ Qui una selezione delle presentazioni viste ai Satoshi Spritz.
 
 |Data              |Autore             |Titolo|
 |------------------|-------------------|------|
+|12 Gennaio 2026   |                   |[Il Vero Capodanno di Bitcoin](https://satoshispritz.it/presentazioni/260112-capodanno_bitcoin)
 |9 Gennaio 2026    |Valerio Vaccaro    |[Il Vero Capodanno di Bitcoin](https://satoshispritz.it/presentazioni/260109-nuovo-anno.pdf)|
 |25 Dicembre 2025  |                   |[Chaos Is Ssecurity](https://satoshispritz.it/presentazioni/251215_entropia.pdf) [Tabella](https://satoshispritz.it/presentazioni/251215_entropia_tabella.pdf)|
 |17 Dicembre 1985  |Valerio Vaccaro    |[Satoshi Spritz 1986](https://satoshispritz.it/presentazioni/851217-ssmilano1986.pdf)|
